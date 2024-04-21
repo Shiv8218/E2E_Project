@@ -1,0 +1,10 @@
+{
+    "firstName":"Shiv",
+    "lastName":"Pratap",
+    "email":"shiv.qa@gmail.com",
+    "telephone":1234567890,
+    "password":1234567890,
+    "cnf_password":1234567890,
+    "assertion":"Your Account Has Been Created!"
+
+}
